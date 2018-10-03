@@ -14,3 +14,6 @@ face_generation/data/
 
 */.floyd*
 
+*.zip
+*.pickle
+
